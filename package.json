@@ -1,0 +1,16 @@
+{
+  "name": "Simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.7.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.10.3"
+  }
+}
